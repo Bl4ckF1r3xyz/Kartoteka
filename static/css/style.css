@@ -1,0 +1,36 @@
+.ct{
+    width: max-content;
+    height: max-content;
+    border: solid black 3px;
+    border-radius: 1em;
+    
+}
+
+
+span{
+    float: left;
+}
+
+.example{
+    width: max-content;
+    height: 150px;
+    
+    
+ 
+ 
+  
+    
+
+   
+}
+
+img{
+    width: 120px;
+    height: 100px;
+
+
+}
+
+form{
+    float: left;
+}
